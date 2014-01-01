@@ -1,6 +1,6 @@
 # Barnsley Fern 
 
-![alt text](resourse/barnsley.png "Barnsley fern")
+![alt text](resources/barnsley.png "Barnsley fern")
 
 A Clojure and Quil implementation.
 
